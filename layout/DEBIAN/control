@@ -1,0 +1,8 @@
+Package: org.thebigboss.ibgraphicshack
+Name: IB Graphics Selector
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Select graphics level of Infinity Blade 1/2/3 game.
+Author: PoomSmart
+Section: Tweaks
