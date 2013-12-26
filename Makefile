@@ -1,8 +1,7 @@
 GO_EASY_ON_ME = 1
-SDKVERSION = 6.0
 
 include theos/makefiles/common.mk
-export ARCHS = armv7
+export ARCHS = armv7 armv7s arm64
 TWEAK_NAME = IBGraphicsHack
 IBGraphicsHack_FILES = IBGraphicsHack.xm
 
