@@ -50,7 +50,7 @@ Restart the game to take effect.</string>
 			<key>label</key>
 			<string>Graphics Type</string>
 			<key>PostNotification</key>
-        	<string>com.PS.IBGraphicsHack.prefs</string>
+      <string>com.PS.IBGraphicsHack.prefs</string>
 			<key>validTitles</key>
 			<array>
 				<string>Default</string>
@@ -83,8 +83,10 @@ Restart the game to take effect.</string>
       <dict>
         <key>cell</key>
         <string>PSGroupCell</string>
+        <key>footerAlignment</key>
+		    <integer>1</integer>
         <key>footerText</key>
-        <string>© 2013 Thuchapol Unprasert
+        <string>© 2013 - 2019 Thatchapon Unprasert
 (@PoomSmart)</string>
       </dict>
     </array>
